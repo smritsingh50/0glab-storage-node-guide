@@ -177,4 +177,4 @@ View Miner Details: https://storagescan-galileo.0g.ai/miner/YOUREVMADDRESS
 
 ---
 
-Made with ❤️ for the https://t.me/andhiiTGkamaii community.
+
